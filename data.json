@@ -1,0 +1,36 @@
+{
+id: "01",
+src: "https://via.placeholder.com/600/1ee8a4",
+alt: "image 01",
+caption: "image 01"
+},
+{
+id: "02",
+src: "https://via.placeholder.com/600/61a65",
+alt: "image 02",
+caption: "image 02"
+},
+{
+id: "03",
+src: "https://via.placeholder.com/600/fdf73e",
+alt: "image 03",
+caption: "image 03"
+},
+{
+id: "04",
+src: "https://via.placeholder.com/600/24f355",
+alt: "image 04",
+caption: "image 04"
+},
+{
+id: "05",
+src: "https://via.placeholder.com/600/92c952",
+alt: "image 05",
+caption: "image 05"
+},
+{
+id: "06",
+src: "https://via.placeholder.com/600/5e3a73",
+alt: "image 06",
+caption: "image 06"
+}
